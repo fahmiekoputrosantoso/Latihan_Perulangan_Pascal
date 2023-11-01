@@ -1,6 +1,6 @@
 | Nama       | Fahmi Eko Putro Santoso               |
 | ---------- | ------------------------------ |
-| NIM        | 3120010046                      |
+| NIM        | 312010046                      |
 | Kelas      | TI.20.RPL-1                    |
 | Mata Kuliah| Pemrograman Visual             |
 | Dosen      | Agung Nugroho, S.Kom., M.Kom.  |
